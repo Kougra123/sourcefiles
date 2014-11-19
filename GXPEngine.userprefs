@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GXPEngine\EnemySpawner.cs">
+    <Files>
+      <File FileName="GXPEngine\MyGame.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Player.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\SolidBlock.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Enemy.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Shooter.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Bullet.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Turret.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Charger.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\EnemySpawner.cs" Line="36" Column="36" />
+      <File FileName="GXPEngine\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\NumberUtil.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Hud.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\Level.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
